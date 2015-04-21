@@ -1,0 +1,109 @@
+{
+  "title": "Zelda: Skyward Sword",
+  "hostBetId": "Deaths_Success_Victory",
+  "groups": {
+    "Deaths": {
+      "bets": 5,
+      "size": { "width": 50, "height": 50 },
+      "categories": {
+        "Enemies": [
+          "Keese",
+          "Chuchu",
+          "Remlit",
+          "Deku Baba",
+          "Bokoblin",
+          "Octorok",
+          "Deku Hornet",
+          "Skulltula",
+          "Stalfos",
+          "Staldra",
+          "Pyrup",
+          "Spume",
+          "Lizalfos",
+          "Ampilus",
+          "Hrok",
+          "Aracha",
+          "Froak",
+          "Beamos",
+          "Armos",
+          "Sentrobe",
+          "Skytail",
+          "Moblin",
+          "Furnix",
+          "Stalmaster",
+          "Pirate King",
+          "Magmanos",
+          "Moldorm",
+          "Cranioc"
+        ],
+
+        "Hazards": [
+          "Fall",
+          "Burn",
+          "Lava",
+          "Rock",
+          "Bomb",
+          "Cactus",
+          "Fence",
+          "Tornado",
+          "Drown",
+          "Lilypad",
+          "Hot Ash",
+          "Blade Trap",
+          "Captured"
+        ],
+
+        "Bosses": [
+          "Ghirahim",
+          "Scaldera",
+          "Moldarach",
+          "Imprisoned",
+          "Koloktos",
+          "Tentalus",
+          "Bilocyte",
+          "Demise"
+        ],
+
+        "Success": [ "Victory" ]
+      }
+    },
+
+    "Areas": {
+      "bets": 1,
+      "size": { "width": 175, "height": 100 },
+      "all": [
+        "Skyloft",
+        "The Sky",
+        "Thunderhead",
+        "Faron Woods",
+        "Skyview Temple",
+        "Eldin Volcano",
+        "Earth Temple",
+        "Lanayru Desert",
+        "Lanayru Mining Facility",
+        "Ancient Cistern",
+        "Sand Sea",
+        "Sand Ship",
+        "Fire Sanctuary",
+        "Sky Keep",
+        "The Past",
+        "Victory"
+      ]
+    },
+
+    "Time": {
+      "bets": 1,
+      "size": { "width": 175, "height": 100 },
+      "all": [
+        "0 Hours",
+        "1 Hour",
+        "2 Hours",
+        "3 Hours",
+        "4 Hours",
+        "5 Hours",
+        "6 Hours",
+        "Victory"
+      ]
+    }
+  }
+}
